@@ -10,6 +10,6 @@ The use of third party libraries is recommended.
 
 Consider implementing unit tests.
 
-Fork this repository and provide us with the link to your fork after you're done.
+Copy this repository and provide us with the link to your version after you're done.
 
 Good luck!
