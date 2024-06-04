@@ -8,6 +8,8 @@ Make sure to remove links to other articles from the content if there are any.
 
 The use of third party libraries is recommended.
 
+Consider implementing unit tests.
+
 Fork this repository and provide us with the link to your fork after you're done.
 
 Good luck!
