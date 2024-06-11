@@ -7,4 +7,6 @@ import java.util.UUID;
 
 @Repository
 public interface PublisherContentRepository extends JpaRepository<PublisherContent, UUID> {
+    boolean existsByArticleUrl(String articleUrl);
+
 }
